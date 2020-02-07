@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository
+
+Im aspiring to change the world through computer science!
